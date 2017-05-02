@@ -1,0 +1,6 @@
+c:\users\danke\documents\visual studio 2017\Projects\PendulumWave\PendulumWave\bin\Debug\PendulumWave.exe.config
+c:\users\danke\documents\visual studio 2017\Projects\PendulumWave\PendulumWave\bin\Debug\PendulumWave.exe
+c:\users\danke\documents\visual studio 2017\Projects\PendulumWave\PendulumWave\bin\Debug\PendulumWave.pdb
+c:\users\danke\documents\visual studio 2017\Projects\PendulumWave\PendulumWave\obj\Debug\PendulumWave.csprojResolveAssemblyReference.cache
+c:\users\danke\documents\visual studio 2017\Projects\PendulumWave\PendulumWave\obj\Debug\PendulumWave.exe
+c:\users\danke\documents\visual studio 2017\Projects\PendulumWave\PendulumWave\obj\Debug\PendulumWave.pdb
