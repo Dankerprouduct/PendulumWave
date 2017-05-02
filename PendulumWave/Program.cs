@@ -10,7 +10,8 @@ namespace PendulumWave
     {
         static void Main(string[] args)
         {
-           
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("A program written by David Fitzgerald");
             while (true)
             {
                 Console.ForegroundColor = ConsoleColor.White;
